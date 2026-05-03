@@ -2,8 +2,8 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "Slobot00",
-    "password": "",
-    "type": "offline"
+    "password": "djabercode",
+    "type": "online"
   },
   "server": {
     "ip": "DJAXER22.aternos.me",
